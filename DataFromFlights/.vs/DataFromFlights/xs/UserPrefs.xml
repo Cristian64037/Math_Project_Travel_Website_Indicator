@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{99140F49-5DF4-4F2B-9750-EB5C17F00982}|Default">
+  <MonoDevelop.Ide.ItemProperties.DataFromFlights PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DataFromFlights/Program.cs">
+    <Files>
+      <File FileName="DataFromFlights/Program.cs" Line="16" Column="86" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DataFromFlights" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
