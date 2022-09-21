@@ -10,3 +10,6 @@
 /Users/cristian/MTH4990/Math_Project_Travel_Website_Indicator/DataCollecting2/DataCollecting2/obj/Release/netcoreapp3.1/DataCollecting2.dll
 /Users/cristian/MTH4990/Math_Project_Travel_Website_Indicator/DataCollecting2/DataCollecting2/obj/Release/netcoreapp3.1/DataCollecting2.pdb
 /Users/cristian/MTH4990/Math_Project_Travel_Website_Indicator/DataCollecting2/DataCollecting2/obj/Release/netcoreapp3.1/DataCollecting2.genruntimeconfig.cache
+/Users/cristian/MTH4990/Math_Project_Travel_Website_Indicator/DataCollecting2/DataCollecting2/bin/Release/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/cristian/MTH4990/Math_Project_Travel_Website_Indicator/DataCollecting2/DataCollecting2/obj/Release/netcoreapp3.1/DataCollecting2.csproj.AssemblyReference.cache
+/Users/cristian/MTH4990/Math_Project_Travel_Website_Indicator/DataCollecting2/DataCollecting2/obj/Release/netcoreapp3.1/DataCollecting2.csproj.CopyComplete

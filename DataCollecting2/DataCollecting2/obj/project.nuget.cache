@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "YjUdYAGC76Ap+AvE5NV880jaqh5MXdB2mbgcwhIXv5VZjLBCD2IyCtGc6ZS0Fl+5EpFN7BOy3gF5SjOyn+PAvA==",
+  "dgSpecHash": "FYEFmAnZfVb32TYKfdhr41BmFVpivsRRtfI8BCBK7o7esVn8SnvMCW4sc88tzWFTfNiCEJayiLK0/fLeR60rlg==",
   "success": true,
   "projectFilePath": "/Users/cristian/MTH4990/Math_Project_Travel_Website_Indicator/DataCollecting2/DataCollecting2/DataCollecting2.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/cristian/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
   "logs": []
 }
