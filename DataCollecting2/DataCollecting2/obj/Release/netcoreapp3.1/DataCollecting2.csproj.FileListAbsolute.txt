@@ -1,0 +1,12 @@
+/Users/cristian/MTH4990/Math_Project_Travel_Website_Indicator/DataCollecting2/DataCollecting2/bin/Release/netcoreapp3.1/DataCollecting2.deps.json
+/Users/cristian/MTH4990/Math_Project_Travel_Website_Indicator/DataCollecting2/DataCollecting2/bin/Release/netcoreapp3.1/DataCollecting2.runtimeconfig.json
+/Users/cristian/MTH4990/Math_Project_Travel_Website_Indicator/DataCollecting2/DataCollecting2/bin/Release/netcoreapp3.1/DataCollecting2.runtimeconfig.dev.json
+/Users/cristian/MTH4990/Math_Project_Travel_Website_Indicator/DataCollecting2/DataCollecting2/bin/Release/netcoreapp3.1/DataCollecting2.dll
+/Users/cristian/MTH4990/Math_Project_Travel_Website_Indicator/DataCollecting2/DataCollecting2/bin/Release/netcoreapp3.1/DataCollecting2.pdb
+/Users/cristian/MTH4990/Math_Project_Travel_Website_Indicator/DataCollecting2/DataCollecting2/obj/Release/netcoreapp3.1/DataCollecting2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cristian/MTH4990/Math_Project_Travel_Website_Indicator/DataCollecting2/DataCollecting2/obj/Release/netcoreapp3.1/DataCollecting2.AssemblyInfoInputs.cache
+/Users/cristian/MTH4990/Math_Project_Travel_Website_Indicator/DataCollecting2/DataCollecting2/obj/Release/netcoreapp3.1/DataCollecting2.AssemblyInfo.cs
+/Users/cristian/MTH4990/Math_Project_Travel_Website_Indicator/DataCollecting2/DataCollecting2/obj/Release/netcoreapp3.1/DataCollecting2.csproj.CoreCompileInputs.cache
+/Users/cristian/MTH4990/Math_Project_Travel_Website_Indicator/DataCollecting2/DataCollecting2/obj/Release/netcoreapp3.1/DataCollecting2.dll
+/Users/cristian/MTH4990/Math_Project_Travel_Website_Indicator/DataCollecting2/DataCollecting2/obj/Release/netcoreapp3.1/DataCollecting2.pdb
+/Users/cristian/MTH4990/Math_Project_Travel_Website_Indicator/DataCollecting2/DataCollecting2/obj/Release/netcoreapp3.1/DataCollecting2.genruntimeconfig.cache
