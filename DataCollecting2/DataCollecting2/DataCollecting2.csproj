@@ -7,8 +7,10 @@
 
   <ItemGroup>
     <None Remove="Newtonsoft.Json" />
+    <None Remove="System.Net.Http.Json" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+    <PackageReference Include="System.Net.Http.Json" Version="6.0.0" />
   </ItemGroup>
 </Project>

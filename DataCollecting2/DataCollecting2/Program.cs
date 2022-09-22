@@ -1,12 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Net.Http;
-using System.Text.Json.Serialization;
-using System.Threading.Tasks;
-using Newtonsoft.Json;
-using Newtonsoft.Json.Linq;
-//using Newtonsoft.Json.Linq;
 
+using System.Threading.Tasks;
+
+using System.Net.Http.Json;
+using Newtonsoft.Json;
 
 namespace DataCollecting2
 {
@@ -30,13 +29,17 @@ namespace DataCollecting2
 			using (var response = await client.SendAsync(request))
 			{
 				response.EnsureSuccessStatusCode();
-				var body = await response.Content.ReadAsStringAsync();
-				Console.WriteLine(body);
+                var body = await response.Content.ReadAsStringAsync();
+                Console.WriteLine(body);
+                //var stock = await httpClient.GetFromJsonAsync<Stock>($"https://localhost:12345/stocks/{symbol}");
+
                 //dynamic stuff = JObject.Parse(body);
 
                 //string name = stuff.itineraries.id;
                 //Console.WriteLine(name);
-                //Root myDeserializedClass = (Root)JsonConvert.DeserializeObject(body);
+                //var content = System.Net.Http.Json.Deserialize<Module>(body);
+                Root myDeserializedClass = (Root)JsonConvert.DeserializeObject(body);
+                Console.WriteLine(myDeserializedClass);
 
 
 
@@ -45,7 +48,7 @@ namespace DataCollecting2
 
 
 
-		}
+        }
 
     }
     public class Agent
